@@ -1,0 +1,26 @@
+date,amount,category,subcategory,description
+15-01-2025,3500.00,Income,Salary,January Salary
+20-01-2025,800.00,Expense,Housing,January Rent
+25-01-2025,150.00,Expense,Utilities,Electricity Bill
+28-01-2025,200.00,Expense,Food,Grocery Shopping
+31-01-2025,300.00,Income,Freelance,Website Design
+15-02-2025,3500.00,Income,Salary,February Salary
+18-02-2025,800.00,Expense,Housing,February Rent
+22-02-2025,160.00,Expense,Utilities,Electricity and Water
+25-02-2025,250.00,Expense,Transportation,Car Maintenance
+15-03-2025,3500.00,Income,Salary,March Salary
+17-03-2025,800.00,Expense,Housing,March Rent
+20-03-2025,400.00,Income,Investments,Stock Dividends
+25-03-2025,180.00,Expense,Healthcare,Medical Checkup
+15-04-2025,3800.00,Income,Salary,April Salary with Bonus
+18-04-2025,800.00,Expense,Housing,April Rent
+22-04-2025,300.00,Expense,Entertainment,Concert Tickets
+15-05-2025,3500.00,Income,Salary,May Salary
+20-05-2025,800.00,Expense,Housing,May Rent
+25-05-2025,500.00,Income,Freelance,Mobile App Development
+01-06-2025,3500.00,Income,Salary,June Salary
+05-06-2025,800.00,Expense,Housing,June Rent
+15-06-2025,400.00,Expense,Shopping,Electronics Purchase
+15-07-2025,3500.00,Income,Salary,July Salary
+20-07-2025,800.00,Expense,Housing,July Rent
+01-08-2025,3500.00,Income,Salary,August Salary

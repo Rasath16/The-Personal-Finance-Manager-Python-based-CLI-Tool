@@ -1,0 +1,26 @@
+{
+    "currency": {
+        "symbol": "$",
+        "code": "USD",
+        "position": "before"
+    },
+    "categories": {
+        "Income": [
+            "Salary",
+            "Freelance",
+            "Investments",
+            "Other Income"
+        ],
+        "Expense": [
+            "Food",
+            "Transportation",
+            "Housing",
+            "Utilities",
+            "Healthcare",
+            "Entertainment",
+            "Shopping",
+            "Other Expenses"
+        ]
+    },
+    "budgets": {}
+}
